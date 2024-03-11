@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\softw\lazar\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1449427374"/>
+  <Params Value=" -MObjFPC -Scghi -Os2 -gw2 -godwarfsets -gl -WG -l -vewnhibq -FiC:\folders\coding\SuperScreenCapture\lib\x86_64-win64 -FuC:\softw\lazar\lcl\units\x86_64-win64\win32 -FuC:\softw\lazar\lcl\units\x86_64-win64 -FuC:\softw\lazar\components\freetype\lib\x86_64-win64 -FuC:\softw\lazar\components\lazutils\lib\x86_64-win64 -FuC:\softw\lazar\packager\units\x86_64-win64 -FuC:\folders\coding\SuperScreenCapture\ -FUC:\folders\coding\SuperScreenCapture\lib\x86_64-win64\ -FEC:\folders\coding\SuperScreenCapture\ -oC:\folders\coding\SuperScreenCapture\supscreencap.exe -dLCL -dLCLwin32 supscreencap.lpr"/>
+</CONFIG>
